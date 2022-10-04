@@ -118,6 +118,7 @@ CONNECT_STRING="ws://3.16.110.25:9001" WALLET_ADDRESS="0x4A5a7Aa4130e407d3708dE5
 ```
 
 ### Community
+
  - [Gitter](https://gitter.im/ethereum/web3.js?source=orgpage)
  - [Forum](https://forum.ethereum.org/categories/ethereum-js)
 
